@@ -1,8 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # 🍲 Recipe App
 
-A beautifully designed **React Native Recipe App** with modern UI, animations, and smooth navigation.  
-This app allows users to **search recipes with filters**, enjoy a nice **splash screen, animation**, with  ** login and profile**.  
+A modern React Native application that displays delicious dishes based on meal type (breakfast, lunch, dinner) and nutritional values (calories, fats). Users can search for recipes by name and enjoy an attractive UI with real-time data fetching from APIs.
 
 ---
 
